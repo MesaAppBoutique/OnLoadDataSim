@@ -176,6 +176,9 @@ print(schools)
 print("Done.")
 
 // TODO - we need to sort each grade string array for each key before we use it in the app UI.
+/*      I believe I demonstrated that the order of the schools in the dictionary is not important,
+        as the list of schools is sorted by the app when building the pickerView on the UI.
+ */
 
 // TODO - …repeat for topics(issues)
 
